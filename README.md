@@ -11,6 +11,10 @@
 - 🌱 I’m currently learning **gen AI,Django,vue.js**
 
 - 👯 I’m looking to collaborate on **Frontend development as Intern**
+- ✨ RESUME LINK -- https://sapphire-jamima-63.tiiny.site
+- 👧 PORTFOLIO LINK --  https://hemasandeepthi.netlify.app/
+
+
 
 - 📫 How to reach me **hemachowdaryghanta@gmail.com**
 
